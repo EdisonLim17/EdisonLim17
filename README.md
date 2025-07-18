@@ -44,7 +44,3 @@ src="https://img.shields.io/github/followers/EdisonLim17?logo=github&style=for-t
 <a href="http://www.github.com/EdisonLim17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonLim17&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/EdisonLim17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLim17&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/EdisonLim17/Personal-Website-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonLim17&repo=Personal-Website-Frontend&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/EdisonLim17/Personal-Website-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonLim17&repo=Personal-Website-Backend&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
