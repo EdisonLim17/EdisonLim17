@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Edison Lim
+==================================================================================================================================
 
-<!--
-**EdisonLim17/EdisonLim17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer
+-----------------------
 
-Here are some ideas to get you started:
+Hello there, I'm Edison Lim! I am an aspiring Cloud Engineer and a third-year Computer Science student at the University of Toronto (St. George). I’m passionate about building secure and scalable applications using AWS, with a focus on serverless architecture, automation, and cloud security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌩️ I'm especially interested in:
+* ☁️  Cloud Infrastructure (AWS, Terraform)
+* 🏗️  Scalable, Highly Available, and Fault-Tolerant Systems (Auto Scaling, Elastic Load Balancing)
+* ⚙️  Serverless Architecture (Lambda, API Gateway, DynamoDB)
+* 🔄  DevOps and Automation (CI/CD, GitHub Actions)
+* 🔐  Cloud Security and Secure Architecture Design (IAM, AWS KMS)
+
+📁 Feel free to explore my repositories to see what I’ve been building and learning!
+
+* 🌍  I'm based in Toronto, ON
+* 🖥️  See my portfolio at [Edison Lim - Portfolio](http://edisonlim.ca)
+* ✉️  You can contact me at [edison.zh.lim17@gmail.com](mailto:edison.zh.lim17@gmail.com)
+* 🎮  I also love gaming and watching anime! Feel free to reach out and chat about your favourite games or shows! 😊
+
+<a href="https://www.github.com/EdisonLim17" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/EdisonLim17?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
+
+### Skills
+
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/EdisonLim17" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/edisonzhlim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/EdisonLim17"><img src="https://github-readme-stats.vercel.app/api?username=EdisonLim17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="EdisonLim17's GitHub stats" /></a>
+
+<a href="http://www.github.com/EdisonLim17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonLim17&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/EdisonLim17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLim17&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/EdisonLim17/Personal-Website-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonLim17&repo=Personal-Website-Frontend&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/EdisonLim17/Personal-Website-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonLim17&repo=Personal-Website-Backend&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
