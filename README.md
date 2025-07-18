@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Edison Lim
-==================================================================================================================================
+===================================================================================================================================
 
 Aspiring Cloud Engineer
 -----------------------
@@ -23,7 +23,7 @@ Hello there, I'm Edison Lim! I am an aspiring Cloud Engineer and a third-year Co
 <a href="https://www.github.com/EdisonLim17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EdisonLim17?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" alt="Git" title="Git"/></a>
@@ -37,20 +37,20 @@ src="https://img.shields.io/github/followers/EdisonLim17?logo=github&style=for-t
   <a href="https://www.linux.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60" height="60" alt="Linux" title="Linux"/></a>
 </p>
 
-### 🏅 Certifications
+## 🏅 Certifications
 
 <a href="https://www.credly.com/badges/c2cfdf6f-9990-4403-aaa8-be020b44b915" target="_blank" rel="noopener noreferrer">
   <img src="/aws-certified-solutions-architect-associate.png" height="120" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
 
-### 🌐 Socials
+## 🌐 Socials
 
 <p align="left">
   <a href="https://www.github.com/EdisonLim17" target="_blank" rel="noopener noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a>
   <a href="https://www.linkedin.com/in/edisonzhlim" target="_blank" rel="noopener noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
 </p>
 
-### 📊 Stats
+## 📊 Stats
 
 [![Edison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdisonLim17&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true)](https://github.com/EdisonLim17)
 
