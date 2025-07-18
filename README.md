@@ -20,9 +20,6 @@ Hello there, I'm Edison Lim! I am an aspiring Cloud Engineer and a third-year Co
 * ✉️  You can contact me at [edison.zh.lim17@gmail.com](mailto:edison.zh.lim17@gmail.com)
 * 🎮  I also love gaming and watching anime! Feel free to reach out and chat about your favourite games or shows! 😊
 
-<a href="https://www.github.com/EdisonLim17" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/EdisonLim17?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
-
 ## 🛠️ Skills
 
 <p align="left">
