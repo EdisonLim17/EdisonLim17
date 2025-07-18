@@ -22,17 +22,7 @@ Hello there, I'm Edison Lim! I am an aspiring Cloud Engineer and a third-year Co
 
 ## 🛠️ Skills
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" alt="Git" title="Git"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" title="Python"/></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="60" alt="Java" title="Java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="60" height="60" alt="VS Code" title="VS Code"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" title="HTML5"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" title="CSS3"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="60" height="60" alt="Amazon Web Services" title="Amazon Web Services"/></a>
-  <a href="https://www.linux.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60" height="60" alt="Linux" title="Linux"/></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,python,java,js,html,css,git,linux,terraform,postman,vscode,pycharm,idea&theme=dark)](https://skillicons.dev)
 
 ## 🏅 Certifications
 
