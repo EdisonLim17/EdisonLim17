@@ -16,7 +16,7 @@ Hello there, I'm Edison Lim! I am an aspiring Cloud Engineer and a third-year Co
 📁 Feel free to explore my repositories to see what I’ve been building and learning!
 
 * 🌍  I'm based in Toronto, ON
-* 🖥️  See my portfolio at [https://edisonlim.ca](https://edisonlim.ca)
+* 🖥️  Check out my portfolio at [https://edisonlim.ca](https://edisonlim.ca)
 * ✉️  You can contact me at [edison.zh.lim17@gmail.com](mailto:edison.zh.lim17@gmail.com)
 * 🎮  I also love gaming and watching anime! Feel free to reach out and chat about your favourite games or shows! 😊
 
