@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Cloud Engineer
 -----------------------
 
-Hello there, I'm Edison Lim! I am an aspiring Cloud Engineer and a third-year Computer Science student at the University of Toronto (St. George). I’m passionate about building secure and scalable applications using AWS, with a focus on serverless architecture, automation, and cloud security.
+Hello there, I'm Edison! I am an aspiring Cloud Engineer and a third-year Computer Science student at the University of Toronto (St. George). I’m passionate about building secure and scalable applications using AWS, with a focus on serverless architecture, automation, and cloud security.
 
 🌩️ I'm especially interested in:
 * ☁️  Cloud Infrastructure (AWS, Terraform)
